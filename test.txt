@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 223B-7815
+
+ Directory of c:\Ampps\www\Working Spaces\git demo
+
+2016-06-12  09:46 AM    <DIR>          .
+2016-06-12  09:46 AM    <DIR>          ..
+2016-06-12  09:46 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  94,307,930,112 bytes free
