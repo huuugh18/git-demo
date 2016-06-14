@@ -8,3 +8,5 @@
 2016-06-12  09:46 AM                 0 test.txt
                1 File(s)              0 bytes
                2 Dir(s)  94,307,930,112 bytes free
+
+hello earth 
